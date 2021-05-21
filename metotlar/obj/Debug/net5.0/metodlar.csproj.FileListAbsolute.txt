@@ -1,0 +1,16 @@
+C:\Users\Keskin\Desktop\pratikler\metodlar\bin\Debug\net5.0\metodlar.exe
+C:\Users\Keskin\Desktop\pratikler\metodlar\bin\Debug\net5.0\metodlar.deps.json
+C:\Users\Keskin\Desktop\pratikler\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.json
+C:\Users\Keskin\Desktop\pratikler\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.dev.json
+C:\Users\Keskin\Desktop\pratikler\metodlar\bin\Debug\net5.0\metodlar.dll
+C:\Users\Keskin\Desktop\pratikler\metodlar\bin\Debug\net5.0\ref\metodlar.dll
+C:\Users\Keskin\Desktop\pratikler\metodlar\bin\Debug\net5.0\metodlar.pdb
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.csprojAssemblyReference.cache
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfoInputs.cache
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfo.cs
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.dll
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\ref\metodlar.dll
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.pdb
+C:\Users\Keskin\Desktop\pratikler\metodlar\obj\Debug\net5.0\metodlar.genruntimeconfig.cache
